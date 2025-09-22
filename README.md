@@ -64,8 +64,8 @@ A comprehensive flight tracking system with both 2D and 3D visualization capabil
 - **Bootstrap**: For responsive UI components
 - **GLTF Loader**: For 3D aircraft models
 
-### API Keys
-- **Google Maps API**: `AIzaSyA6myHzS10YXdcazAFalmXvDkrYCp5cLc8`
+### API Key
+
 - **FlightRadar24**: Public API endpoints
 - **OpenSky Network**: Public API endpoints
 
@@ -123,3 +123,6 @@ A comprehensive flight tracking system with both 2D and 3D visualization capabil
 
 ## License
 This project is for educational and demonstration purposes. Please respect the terms of service of the data providers (FlightRadar24, OpenSky Network, Google Maps).
+
+ 
+
